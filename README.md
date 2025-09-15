@@ -106,3 +106,7 @@ MVPリリース
 ● テスト：RSpec / FactoryBot
 
 ● ジョブ管理：将来的にSidekiq（通知・定期処理向け）
+
+# ER図
+
+![alt text](image.png)
